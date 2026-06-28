@@ -1,8 +1,6 @@
 # 🛡️ Cisco Cybersecurity Introduction
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen) ![Plataforma](https://img.shields.io/badge/Plataforma-Cisco%20Networking%20Academy-blue)
-<p align="center">
-  <img src="badge.png" alt="Cisco Cybersecurity Badge" width="220">
-</p>
+
 Este repositório foi criado para registrar a conclusão do curso de **Introdução à Cibersegurança** da Cisco Networking Academy. O objetivo é documentar o início da minha trajetória e os fundamentos adquiridos na área de segurança da informação. 🚀
 
 ---
